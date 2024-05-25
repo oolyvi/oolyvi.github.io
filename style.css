@@ -861,7 +861,7 @@ body.dark .footer-link img {
   --track-size: calc(var(--thumb-size) * 2);
   --track-padding: 0.225rem;
   --track-inactive: hsl(80 0% 80%);
-  --track-active: #d7aefb;
+  --track-active: #00a1e5;
   --track-color-inactive: var(--track-inactive);
   --track-color-active: var(--track-active);
 
