@@ -1,1 +1,1 @@
-[<img src="assets/images/readme.png" alt="Image" height="720"/>](https://oolyvi.github.io/)
+[<img src="assets/images/readme.png" alt="Image" width="720"/>](https://oolyvi.github.io/)
